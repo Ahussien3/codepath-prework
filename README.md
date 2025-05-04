@@ -23,6 +23,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 Tiktok ( Engage with other people, For you page)
 Exponent ( Mock interview prep, Helps you understand PM termonology)
 Discord ( Engage with others, Able to form groups)
+
+The App Idea is called reHearse, think of it like a post game interview after a internship interview asking you questions about your performance and giving you tips on improving your exprience stories for you next internship interviews
 ## Notes
 
 Describe any challenges encountered while building the app.
