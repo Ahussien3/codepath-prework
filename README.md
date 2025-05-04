@@ -20,7 +20,9 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-
+Tiktok ( Engage with other people, For you page)
+Exponent ( Mock interview prep, Helps you understand PM termonology)
+Discord ( Engage with others, Able to form groups)
 ## Notes
 
 Describe any challenges encountered while building the app.
